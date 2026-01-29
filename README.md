@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/17283695/media/e4980280646c2267593bfe6ab009f590.gif">
 
 **Information Systems Engineering Student**
+
 **Backend Developer & Automation Enthusiast**
 
 I'm passionate about building scalable backend systems, APIs, and automation solutions. Currently focused on backend development, server architecture, and SaaS platforms.
