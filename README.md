@@ -8,7 +8,7 @@
 
 I'm passionate about building scalable backend systems, APIs, and automation solutions. Currently focused on backend development, server architecture, and SaaS platforms.
 
-📧 **ofarukbingol@gmail.com**
+📧 **ofarukbingol21@gmail.com**
 
 ---
 
