@@ -40,9 +40,9 @@ I build web design, e-commerce, and custom software projects. I run Fedora Linux
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukbingol&layout=compact&hide_border=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=farukbingol&layout=compact&hide_border=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukbingol&show_icons=true&hide_border=true&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=farukbingol&show_icons=true&hide_border=true&theme=dark)
 
 ---
 
